@@ -1,2 +1,2 @@
 # vinuth-github
-this is for Sample purpose .
+this is for projects purpose .
